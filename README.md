@@ -18,7 +18,7 @@ Step 3: There is a select folder dropdown besides the branch dropdown. Choose /d
 
 Step 4: Press save. 
 
-Step 5: Refresh the page until there appears a text block at the top which says, "Your site is live at https://username.github.io/jona-visualization/" where username is the github username.
+Step 5: Refresh the page until there appears a text block at the top which says, "Your site is live at https://username.github.io/Jona-Viz/" where username is the github username.
 
 Step 6: Clicking that will show you this README file. In order to access one of the visualization folders(in total, 2), append the name of one of the folders and then append the html file name(which is sunburst.html) at the end of the address. 
 
