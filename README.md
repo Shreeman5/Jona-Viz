@@ -22,6 +22,6 @@ Step 5: Refresh the page until there appears a text block at the top which says,
 
 Step 6: Clicking that will show you this README file. In order to access one of the visualization folders(in total, 2), append the name of one of the folders and then append the html file name(which is sunburst.html) at the end of the address. 
 
-So, for instance, if the name of the folder was 'SunburstWithCircularTreemap' and the name of the html file was 'sunburst.html', you will find that visualization at 'https://username.github.io/jona-visualization/SunburstWithCircularTreemap/sunburst.html'.
+So, for instance, if the name of the folder was 'SunburstWithCircularTreemap' and the name of the html file was 'sunburst.html', you will find that visualization at 'https://username.github.io/Jona-Viz/SunburstWithCircularTreemap/sunburst.html'.
 
-If the name of the folder was 'SunburstWithRadialBar' and the name of the html file was 'sunburst.html', you will find that visualization at 'https://username.github.io/jona-visualization/SunburstWithRadialBar/sunburst.html'.
+If the name of the folder was 'SunburstWithRadialBar' and the name of the html file was 'sunburst.html', you will find that visualization at 'https://username.github.io/Jona-Viz/SunburstWithRadialBar/sunburst.html'.
